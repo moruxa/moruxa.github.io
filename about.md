@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-拙者、moruxaと申します
+moruxaと申します
 
 ### More Information
 
