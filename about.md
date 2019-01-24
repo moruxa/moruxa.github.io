@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+拙者、moruxaと申します
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+とくになし
 
 ### Contact me
 
